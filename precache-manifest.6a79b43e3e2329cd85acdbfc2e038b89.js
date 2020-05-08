@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ca44cc4792f5e70e7f6eb6c513253a1",
+    "revision": "ab828585afb514ea9f887ed0b101a4cc",
     "url": "/makergenie/index.html"
   },
   {
-    "revision": "bef6cd3b3a68249d64d4",
+    "revision": "afa4bd611271df57ab7b",
     "url": "/makergenie/static/css/main.49896a80.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makergenie/static/js/2.1dc6e5fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bef6cd3b3a68249d64d4",
-    "url": "/makergenie/static/js/main.2bf830a5.chunk.js"
+    "revision": "afa4bd611271df57ab7b",
+    "url": "/makergenie/static/js/main.0812e4a5.chunk.js"
   },
   {
     "revision": "2809f3261e8aa7813692",
