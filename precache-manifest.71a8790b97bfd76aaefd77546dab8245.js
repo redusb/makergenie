@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abeb43e34718a6f90416483135add091",
+    "revision": "8198832f1bd5c4061c3a908fba9923d9",
     "url": "/makergenie/index.html"
   },
   {
-    "revision": "f1706326129be8e37c88",
-    "url": "/makergenie/static/css/main.b4925169.chunk.css"
+    "revision": "e2c5da6d22975e80eb04",
+    "url": "/makergenie/static/css/main.49896a80.chunk.css"
   },
   {
-    "revision": "fa2c43b60c330e18d3b4",
-    "url": "/makergenie/static/js/2.153e90c1.chunk.js"
+    "revision": "969c8260cb3d657287d7",
+    "url": "/makergenie/static/js/2.1dc6e5fb.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/makergenie/static/js/2.153e90c1.chunk.js.LICENSE.txt"
+    "url": "/makergenie/static/js/2.1dc6e5fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1706326129be8e37c88",
-    "url": "/makergenie/static/js/main.2e54dba7.chunk.js"
+    "revision": "e2c5da6d22975e80eb04",
+    "url": "/makergenie/static/js/main.4908f1d9.chunk.js"
   },
   {
-    "revision": "8ded22baf42f1a5ae66f",
-    "url": "/makergenie/static/js/runtime-main.21973e77.js"
+    "revision": "2809f3261e8aa7813692",
+    "url": "/makergenie/static/js/runtime-main.9a301d84.js"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
